@@ -7,8 +7,8 @@ This plugin prevents players from code raiding items and doors locked with a cod
 
 ```json
 {
-    "allowTeamMembers": true,  //defaults to true
-    "allowTCAuthed": false  //defaults to true
+    "allowTeamMembers": true,  
+    "allowTCAuthed": true
 }
 ```
 
