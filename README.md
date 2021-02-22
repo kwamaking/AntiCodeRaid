@@ -1,4 +1,4 @@
-# AntiCodeRaid
+# Anti Code Raid
 This plugin prevents players from code raiding items and doors locked with a code lock.  It is configurable to allow team members and anyone who is TC Authed to attempt to unlock the code lock.
 # Permissions
 * `anticoderaid.enabled` - Turns this plugin on for the group or players assigned.
