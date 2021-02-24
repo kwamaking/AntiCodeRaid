@@ -3,7 +3,7 @@ using System.Collections.Generic;
 
 namespace Oxide.Plugins
 {
-    [Info( "Anti Code Raid", "kwamaking", "1.0.0" )]
+    [Info( "Anti Code Raid", "kwamaking", "1.0.1" )]
     [Description( "Prevents players from code raiding if they're not on your team, TC authed, or the owner." )]
     class AntiCodeRaid : RustPlugin
     {
