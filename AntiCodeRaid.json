@@ -1,4 +1,5 @@
 {
     "allowTeamMembers": true,
-    "allowTCAuthed": false
+    "allowTCAuthed": true,
+    "pluginPrefixColor": "#123412"
 }
