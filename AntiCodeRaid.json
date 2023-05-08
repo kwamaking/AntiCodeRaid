@@ -1,5 +1,6 @@
 {
     "allowTeamMembers": true,
     "allowTCAuthed": true,
-    "pluginPrefixColor": "#123412"
+    "pluginPrefixColor": "#123412",
+    "chatIconId": 0
 }

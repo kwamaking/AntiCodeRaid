@@ -8,12 +8,14 @@ This plugin prevents players from code raiding items and doors locked with a cod
 * `allowTeamMembers` - If set to `true` allows members of your team to unlock code locks that you own.
 * `allowTCAuthed` - If set to `true` allows anyone who has building privilege to unlock code locks.
 * `pluginPrefixColor` - Allows you to change the plugin's chat prefix color, default is `#FF0000`, it must be Hex format.
+* `chatIconId` - This is the steamId of the profile icon you would like to use instead. Defaults to `0`.
 
 ```json
 {
     "allowTeamMembers": true,  
     "allowTCAuthed": true,
-    "pluginPrefixColor": "#FF0000"
+    "pluginPrefixColor": "#FF0000",
+    "chatIconId": 0
 }
 ```
 
